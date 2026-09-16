@@ -6,4 +6,9 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-n = int(input())
+n = int(input("จำนวนเต็ม"))
+if=(input("2"))
+    print("เลขคู่")
+elif=(input("3"))
+    print("เลขคี่")
+else :
