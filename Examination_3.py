@@ -6,4 +6,10 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-score = int(input())
+input=score
+if= int(input(>50))
+print("pass")
+elif=int(input(<50))
+print("fell")
+else :
+pass 50
