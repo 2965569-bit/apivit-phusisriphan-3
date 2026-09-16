@@ -7,4 +7,11 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-age = int(input())
+age = int(input("age"))
+age = if 60:
+monny = elif 0: บาท
+age = if 12:
+monny = elif 50: บาท
+age = if 12-59:
+else:
+100: บาท
